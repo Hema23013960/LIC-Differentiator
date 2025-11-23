@@ -37,7 +37,12 @@ PC with LT Spice Software
 15.	Select the required node voltages (V(n001)) to get the waveforms.
 	
 16.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
+## Tabulation:
+![WhatsApp Image 2025-11-22 at 22 03 05_84689d7b](https://github.com/user-attachments/assets/4eac7d07-7bd4-4140-990e-d3f3da39da97)
 
-## Output:
 
-## Result:
+## Output:![WhatsApp Image 2025-11-22 at 22 03 05_b3b033fc](https://github.com/user-attachments/assets/34a31aeb-0c86-403a-b698-520fb739d01f)
+
+
+## Result:![WhatsApp Image 2025-11-22 at 22 03 05_91404a7d](https://github.com/user-attachments/assets/60b3539a-8a3a-457f-8e41-16ee65f3a80c)
+
